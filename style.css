@@ -1,0 +1,45 @@
+.title-prompt
+{
+    text-align: center;
+    background-color: lightgreen;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.rating-options
+{
+    text-align: center;
+    background-color: orange;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.test-options
+{
+    text-align: center;
+    background-color: red;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.check-values
+{
+    text-align: center;
+    background-color: red;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.weekly-avg
+{
+    text-align: center;
+    background-color: lightblue;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
